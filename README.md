@@ -1,4 +1,4 @@
-# Passmenu – macOS / Darwin popup menu using fzf
+# Passmenu – macOS popup menu to search for pass passwords
 
 ![Passmenu demo](assets/example.png)
 
